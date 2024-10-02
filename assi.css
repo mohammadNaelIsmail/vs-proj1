@@ -26,12 +26,13 @@ img{
 .default_text{font-family: 'Courier New', Courier, monospace;
     text-align: left;
     padding: 13px;
-    color: rgb(105, 93, 70);
+    color: rgb(255, 241, 215);
 }
 #text{
     border-radius: 10px;
-    border-color: rgb(105, 93, 70);;
+    border-color: rgb(255, 241, 215);
     border-style:ridge;
-    background-color: rgb(105, 93, 70);;
+    background-color:rgb(255, 241, 215);
+
     
 }
