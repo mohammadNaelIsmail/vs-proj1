@@ -1,0 +1,37 @@
+.personal_photo{
+    border-radius: 30px;
+}
+body{
+    background-image: url(images/back-ground.jpg);
+    background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+img{
+  
+    width:250px; height:150px;
+    padding:15px 15px;
+    border-radius: 30px;
+
+}
+.main{
+    width: 740px;
+  
+    backdrop-filter:blur(10px);
+    border: solid 2px;
+    border-color:rgb(20, 20, 20) ;
+    border-radius: 30px;
+}
+.default_text{font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    padding: 13px;
+    color: rgb(105, 93, 70);
+}
+#text{
+    border-radius: 10px;
+    border-color: rgb(105, 93, 70);;
+    border-style:ridge;
+    background-color: rgb(105, 93, 70);;
+    
+}
